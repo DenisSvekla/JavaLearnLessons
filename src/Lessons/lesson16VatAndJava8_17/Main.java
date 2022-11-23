@@ -11,11 +11,6 @@ public final class Main extends Car {
 
     public static void main(String[] args) {
 
-        String sss= """
-                Вфывфыв;
-                фывфыв;
-                """;
-        System.out.println(sss);
 
 
     }

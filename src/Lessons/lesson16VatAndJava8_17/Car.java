@@ -1,6 +1,6 @@
 package Lessons.lesson16VatAndJava8_17;
 
-public sealed class Car permits Main {
+public class Car {
 
     public void create() {
 
