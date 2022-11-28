@@ -16,6 +16,7 @@ public class Main {
         System.out.println(checkApiAdress(ipAdress));
         FileReader fileReader = new FileReader("C://1.txt");
         System.out.println(readAndWriteImportantInfoFromFile(fileReader));
+        fileReader.close();
 
     }
 
