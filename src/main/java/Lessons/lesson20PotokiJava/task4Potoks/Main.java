@@ -8,6 +8,7 @@ public class Main {
             potoksWithDigits.start(potoksWithDigits).join();
 
         }
+
         synchronized (new PotoksWithDigits()) {
 
         }
